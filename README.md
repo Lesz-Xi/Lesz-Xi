@@ -56,7 +56,7 @@ load-bearing walls.
 
 ### GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lesz-Xi&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lesz-Xi&bg_color=FDF8F0&color=3D3229&line=C8965A&point=8B6340&area_color=C8965A&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=8B6340" width="100%" alt="GitHub Activity Graph"/>
 
 ---
 
