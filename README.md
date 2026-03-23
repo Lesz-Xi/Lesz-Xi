@@ -1,38 +1,46 @@
 <div align="center">
-<br>
 
-**Lesz Xi**
+# Hi, I'm Lesz
 
-<br>
+**Causal AI Architect** | **Scientific Systems Builder** | **Wu-Weism**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+
 </div>
 
-> Machines that reason causally — not just predict correlatively.
-> That is the only kind worth building.
+> I build machines that reason causally — not just predict correlatively.
+> Traversing the rungs of Judea Pearl's Ladder: from observation to intervention,
+> distilling truth from the flux through disciplined causal inquiry.
+
+🔬 [wuweism.com](https://wuweism.com) — MASA: a trust-first AI architecture for scientific discovery, causal governance, and auditable reasoning.
 
 ---
 
-I work on **[MASA](https://wuweism.com)** — Methods of Automated Scientific Analysis.
+### Current Projects
 
-A closed-loop AI scientist: hypothesis generation, causal evidence extraction,
-claim falsification, epistemic memory. The LLM orchestrates but never computes.
-The causal engine does the actual work — graph surgery, forward substitution,
-structural counterfactuals. If the LLM disappeared, the core computation would still run.
+- 🧪 **[Crucible](https://github.com/Lesz-Xi/crucible)** — MASA research workbench. The production surface for closed-loop scientific analysis.
+- 🛡️ **[academic-integrity-agent](https://github.com/Lesz-Xi/academic-integrity-agent)** — AI verification agent with burstiness analysis, perplexity tracking, and human variance preservation.
 
-The [white paper](https://wuweism.com/masa-white-paper.html) describes the trust-first architecture:
-auditable reasoning, causal governance, and sovereign memory that tracks
-confidence — not just recall.
+### Earlier Work
+
+- ⚡ [voltagent-crucible-client](https://github.com/Lesz-Xi/voltagent-crucible-client) — VoltAgent client bridge for Crucible
+- 🔌 [masa-orchestrator-mcp](https://github.com/Lesz-Xi/masa-orchestrator-mcp) — MCP orchestrator for MASA multi-model pipelines
+- 🧬 [hiv-entropic-vise](https://github.com/Lesz-Xi/hiv-entropic-vise) — Entropic analysis framework for HIV research
 
 ---
 
-### Current work
+### What I'm Building
 
-- **[Crucible](https://github.com/Lesz-Xi/crucible)** — MASA research workbench. The production surface.
-- **[academic-integrity-agent](https://github.com/Lesz-Xi/academic-integrity-agent)** — Verification agent for academic claims.
-
-### Earlier work
-
-- [voltagent-crucible-client](https://github.com/Lesz-Xi/voltagent-crucible-client) — VoltAgent client for Crucible
-- [masa-orchestrator-mcp](https://github.com/Lesz-Xi/masa-orchestrator-mcp) — MCP orchestrator for MASA
+- **Closed-loop AI scientist** — Hypothesis generation → causal evidence extraction → claim falsification → epistemic memory
+- **Causal Engine** — Pearl's do-calculus implemented as graph surgery, forward substitution, structural counterfactuals
+- **Sovereign Memory** — RAG architecture that tracks confidence, not just recall. If the LLM disappeared, the core computation would still run.
+- **[Read the white paper →](https://wuweism.com/masa-white-paper.html)**
 
 ---
 
@@ -46,17 +54,23 @@ load-bearing walls.
 
 ---
 
-### Stack
+### GitHub Activity
 
-`TypeScript` · `Python` · `Next.js 15` · `React 19` · `Supabase` · `PostgreSQL` · `Vercel`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lesz-Xi&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Activity Graph"/>
 
 ---
 
-<sub>[lesz25.com](https://lesz25.com/) · [wuweism.com](https://wuweism.com)</sub>
+### Connect
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
+[![Portfolio](https://img.shields.io/badge/lesz25.com-000?style=flat&logo=safari&logoColor=white)](https://lesz25.com/)
+[![Wu-Weism](https://img.shields.io/badge/wuweism.com-C8965A?style=flat&logo=safari&logoColor=white)](https://wuweism.com)
+[![GitHub](https://img.shields.io/github/followers/Lesz-Xi?label=Follow&style=flat&logo=github&logoColor=white)](https://github.com/Lesz-Xi)
+
+---
 
 <div align="center">
+<br>
 
 *为学日益，为道日损*
 
