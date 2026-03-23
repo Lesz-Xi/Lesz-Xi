@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Lesz
+# Hi, I'm Rhine Tague
 
-**Causal AI Architect** | **Scientific Systems Builder** | **Wu-Weism**
+**Developer, Researcher & Photographer** · Philippines
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,9 +14,11 @@
 
 </div>
 
-> I build machines that reason causally — not just predict correlatively.
-> Traversing the rungs of Judea Pearl's Ladder: from observation to intervention,
-> distilling truth from the flux through disciplined causal inquiry.
+> I architect systems at the boundary of code and inquiry — from causal AI
+> research platforms to immersive web experiences. Development is my form of
+> publication. Every system I build is treated with the rigor of a research paper
+> and the precision of a surgical instrument — functional, communicative,
+> and hard-to-vary by design.
 
 🔬 [wuweism.com](https://wuweism.com) — MASA: a trust-first AI architecture for scientific discovery, causal governance, and auditable reasoning.
 
@@ -37,9 +39,11 @@
 
 ### What I'm Building
 
+My primary work is **[MASA](https://wuweism.com)** — a causal AI research platform built on Pearl's do-calculus, designed to close the loop between hypothesis, intervention, and counterfactual reasoning.
+
 - **Closed-loop AI scientist** — Hypothesis generation → causal evidence extraction → claim falsification → epistemic memory
-- **Causal Engine** — Pearl's do-calculus implemented as graph surgery, forward substitution, structural counterfactuals
-- **Sovereign Memory** — RAG architecture that tracks confidence, not just recall. If the LLM disappeared, the core computation would still run.
+- **Causal Engine** — Graph surgery, forward substitution, structural counterfactuals. If the LLM disappeared, the core computation would still run.
+- **Sovereign Memory** — RAG architecture that tracks confidence, not just recall.
 - **[Read the white paper →](https://wuweism.com/masa-white-paper.html)**
 
 ---
@@ -51,6 +55,12 @@ are hard to vary. Maltz's cybernetic self-image. These are not influences — th
 load-bearing walls.
 
 `Causal inference` · `Theoretical neuroscience` · `Philosophy of science` · `Higher-order cognition`
+
+---
+
+### Photography
+
+Photography is how I train my eye. The same discipline that produces a decisive frame produces a decisive interface.
 
 ---
 
