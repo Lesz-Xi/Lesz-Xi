@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lesz
+# Hi, I'm Rhine
 
 **Developer, Researcher & Photographer** · Philippines
 
