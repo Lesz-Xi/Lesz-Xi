@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rhine Tague
+# Hi, I'm Lesz
 
 **Developer, Researcher & Photographer** · Philippines
 
