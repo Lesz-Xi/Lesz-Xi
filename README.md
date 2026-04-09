@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lesz
+# Rhine
 
 **Developer · Researcher · Photographer**  
 Philippines
