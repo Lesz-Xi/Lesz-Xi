@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rhine
+# Rhine,
 
 **Developer · Researcher · Photographer**  
 Philippines
