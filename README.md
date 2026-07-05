@@ -57,25 +57,6 @@ Related reading:
 
 ---
 
-## Selected Projects
-
-- **[Crucible](https://github.com/Lesz-Xi/crucible)**  
-  MASA research workbench and production surface for closed-loop scientific analysis.
-
-- **[masa-epistemic-orchestrator](https://github.com/Lesz-Xi/masa-epistemic-orchestrator)**  
-  Proof-first orchestration for scientific agents with MCP retrieval, provenance-locked citations, deterministic fallback, and operator escalation.
-
-- **[academic-integrity-agent](https://github.com/Lesz-Xi/academic-integrity-agent)**  
-  Verification-oriented AI agent focused on burstiness analysis, perplexity tracking, and human variance preservation.
-
-- **[voltagent-crucible-client](https://github.com/Lesz-Xi/voltagent-crucible-client)**  
-  VoltAgent client bridge for Crucible.
-
-- **[hiv-entropic-vise](https://github.com/Lesz-Xi/hiv-entropic-vise)**  
-  Entropic analysis framework for HIV research.
-
----
-
 ## Research Lineage
 
 Pearl's do-calculus. Popper's falsifiability. Deutsch's criterion that good explanations are hard to vary. Maltz's cybernetic self-image.
