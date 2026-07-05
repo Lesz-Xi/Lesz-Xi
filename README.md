@@ -17,7 +17,6 @@ Philippines
 > I build systems at the boundary of code, scientific inquiry, and epistemic rigor.  
 > My main work is MASA: a trust-first architecture for scientific agents, causal reasoning, and auditable AI workflows.
 
-**Primary work:** [wuweism.com](https://wuweism.com)
 
 ---
 
