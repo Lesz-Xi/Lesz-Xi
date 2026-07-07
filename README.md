@@ -7,10 +7,7 @@ Philippines
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Twin Sparrow](https://img.shields.io/badge/Twin_Sparrow-C8965A?style=flat&logoColor=white)](https://github.com/Lesz-Xi/twin-sparrow)
 
 </div>
 
@@ -33,23 +30,29 @@ Continuity over conversation. Proof over polish. Direction over abundance.
 
 ## Featured Projects
 
-### ✧ [twin-sparrow](https://github.com/Lesz-Xi/twin-sparrow)
+### [twin-sparrow](https://github.com/Lesz-Xi/twin-sparrow)
+
+<a href="https://github.com/Lesz-Xi/twin-sparrow"><img src="assets/twin-sparrow.jpeg" width="100%" alt="Twin Sparrow" /></a>
+
 A coding **companion that remembers.** An Obsidian-native memory vault, dated-journal continuity, and composable skills — carried across terminal, web, and iOS. A session isn't a chat that ends; it's a process that leaves an on-disk trail the next session reads before it acts.
+
 `TypeScript` · `monorepo` · `agent runtime`
 
-### ◇ [twin-sparrow-claude-adapter](https://github.com/Lesz-Xi/twin-sparrow-claude-adapter)
+### [twin-sparrow-claude-adapter](https://github.com/Lesz-Xi/twin-sparrow-claude-adapter)
+
+<a href="https://github.com/Lesz-Xi/twin-sparrow-claude-adapter"><img src="assets/twin-sparrow-claude-adapter.png" width="100%" alt="Twin Sparrow Claude Adapter" /></a>
+
 A Claude Code plugin that injects **Twin-Sparrow companion capsules per turn**, gated by a verification contract that blocks closure until proof obligations pass. Reasoning has to earn its conclusion.
+
 `TypeScript` · `Claude Code plugin` · `verification gate`
 
-### ⌘ [Aurelian](https://github.com/Lesz-Xi/Aurelian)
+### [Aurelian](https://github.com/Lesz-Xi/Aurelian)
+
+<a href="https://github.com/Lesz-Xi/Aurelian"><img src="assets/aurelian.png" width="100%" alt="Aurelian" /></a>
+
 A premium, macOS-inspired, **terminal-native development environment** — real PTY sessions, workspace persistence, theming, and IDE-grade architecture. The terminal treated as a designed surface, not an afterthought.
+
 `TypeScript` · `PTY` · `IDE architecture`
-
-### ▷ [IskoLab](https://github.com/Lesz-Xi/Iskolab) · [live](https://iskolab.vercel.app)
-An AI-assisted **exam-prep companion** for students. It turns an exam date, topic list, and a student's own notes into a focused study loop: plan the days, generate a study pack, practice recall, repair weak items before exam day.
-> When explanation becomes abundant, direction becomes the scarce thing.
-
-`HTML` · `PWA` · `study loop`
 
 ---
 
