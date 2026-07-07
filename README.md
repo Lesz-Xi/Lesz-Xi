@@ -65,6 +65,11 @@ These are not decorative influences. They are load-bearing constraints.
 
 `Causal inference` · `Philosophy of science` · `Theoretical neuroscience` · `Higher-order cognition`
 
+**Writing**
+
+- [MASA — White Paper](https://www.wuweism.com/masa-white-paper.html) · a trust-first architecture for causal, auditable scientific agents
+- [Continuous Valence-Corrected Intelligence](https://zenodo.org/records/20579513) · preprint, Zenodo — intelligence as situated correction
+
 ---
 
 ## Design and Photography
