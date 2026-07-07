@@ -96,9 +96,6 @@ See the frames → [lesz25.com/photography](https://lesz25.com/photography)
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
-[![Portfolio](https://img.shields.io/badge/lesz25.com-000?style=flat&logo=safari&logoColor=white)](https://lesz25.com/)
-[![Wu-Weism](https://img.shields.io/badge/wuweism.com-C8965A?style=flat&logo=safari&logoColor=white)](https://wuweism.com)
-[![GitHub](https://img.shields.io/github/followers/Lesz-Xi?label=Follow&style=flat&logo=github&logoColor=white)](https://github.com/Lesz-Xi)
 
 ---
 
