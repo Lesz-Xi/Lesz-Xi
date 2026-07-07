@@ -5,8 +5,6 @@
 **Developer · Researcher · Photographer**
 Philippines
 
-[![Twin Sparrow](https://img.shields.io/badge/Twin_Sparrow-C8965A?style=flat&logoColor=white)](https://github.com/Lesz-Xi/twin-sparrow)
-[![Aurelian](https://img.shields.io/badge/Aurelian-C9A227?style=flat&logoColor=white)](https://github.com/Lesz-Xi/Aurelian)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
 [![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex/)
 
