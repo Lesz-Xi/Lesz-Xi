@@ -8,6 +8,8 @@ Philippines
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Twin Sparrow](https://img.shields.io/badge/Twin_Sparrow-C8965A?style=flat&logoColor=white)](https://github.com/Lesz-Xi/twin-sparrow)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
+[![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex/)
 
 </div>
 
