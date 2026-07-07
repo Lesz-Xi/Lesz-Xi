@@ -33,7 +33,6 @@ Continuity over conversation. Proof over polish. Direction over abundance.
 
 ### [twin-sparrow](https://github.com/Lesz-Xi/twin-sparrow)
 
-<a href="https://github.com/Lesz-Xi/twin-sparrow"><img src="assets/twin-sparrow.jpeg" width="100%" alt="Twin Sparrow" /></a>
 
 A coding **companion that remembers.** An Obsidian-native memory vault, dated-journal continuity, and composable skills — carried across terminal, web, and iOS. A session isn't a chat that ends; it's a process that leaves an on-disk trail the next session reads before it acts.
 
@@ -41,7 +40,6 @@ A coding **companion that remembers.** An Obsidian-native memory vault, dated-jo
 
 ### [twin-sparrow-claude-adapter](https://github.com/Lesz-Xi/twin-sparrow-claude-adapter)
 
-<a href="https://github.com/Lesz-Xi/twin-sparrow-claude-adapter"><img src="assets/twin-sparrow-claude-adapter.png" width="100%" alt="Twin Sparrow Claude Adapter" /></a>
 
 A Claude Code plugin that injects **Twin-Sparrow companion capsules per turn**, gated by a verification contract that blocks closure until proof obligations pass. Reasoning has to earn its conclusion.
 
@@ -49,7 +47,6 @@ A Claude Code plugin that injects **Twin-Sparrow companion capsules per turn**, 
 
 ### [Aurelian](https://github.com/Lesz-Xi/Aurelian) &nbsp;![Status](https://img.shields.io/badge/status-in_development-C9A227?style=flat)
 
-<a href="https://github.com/Lesz-Xi/Aurelian"><img src="assets/aurelian.png" width="100%" alt="Aurelian" /></a>
 
 A premium, macOS-inspired, **terminal-native development environment** — real PTY sessions, workspace persistence, theming, and IDE-grade architecture. The terminal treated as a designed surface, not an afterthought. **Currently in active development.**
 
