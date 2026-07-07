@@ -1,8 +1,8 @@
 <div align="center">
 
-# Rhine,
+# Rhine
 
-**Developer · Researcher · Photographer**  
+**Developer · Researcher · Photographer**
 Philippines
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -14,45 +14,42 @@ Philippines
 
 </div>
 
-> I build systems at the boundary of code, scientific inquiry, and epistemic rigor.  
-> My main work is MASA: a trust-first architecture for scientific agents, causal reasoning, and auditable AI workflows.
+> I build systems at the boundary of code, scientific inquiry, and epistemic rigor —
+> tools that make reasoning **inspectable** instead of theatrical.
 
+Across everything I ship, one constraint holds: **if the model disappeared, the core should still compute.**
+Continuity over conversation. Proof over polish. Direction over abundance.
 
 ---
 
 ## What I Work On
 
-I focus on:
-
-- causal AI systems
-- research orchestration and verification
-- trustworthy agent workflows
-- high-fidelity product interfaces
-- tools that make reasoning inspectable instead of theatrical
+- causal AI systems and auditable reasoning
+- long-lived agents with persistent, inspectable memory
+- research orchestration, verification, and falsification loops
+- high-fidelity, terminal-native product interfaces
 
 ---
 
-## Current Focus
+## Featured Projects
 
-### MASA
+### ✧ [twin-sparrow](https://github.com/Lesz-Xi/twin-sparrow)
+A coding **companion that remembers.** An Obsidian-native memory vault, dated-journal continuity, and composable skills — carried across terminal, web, and iOS. A session isn't a chat that ends; it's a process that leaves an on-disk trail the next session reads before it acts.
+`TypeScript` · `monorepo` · `agent runtime`
 
-**[MASA](https://wuweism.com)** is my core research and engineering effort.
+### ◇ [twin-sparrow-claude-adapter](https://github.com/Lesz-Xi/twin-sparrow-claude-adapter)
+A Claude Code plugin that injects **Twin-Sparrow companion capsules per turn**, gated by a verification contract that blocks closure until proof obligations pass. Reasoning has to earn its conclusion.
+`TypeScript` · `Claude Code plugin` · `verification gate`
 
-It is a causal AI platform designed to close the loop between:
+### ⌘ [Aurelian](https://github.com/Lesz-Xi/Aurelian)
+A premium, macOS-inspired, **terminal-native development environment** — real PTY sessions, workspace persistence, theming, and IDE-grade architecture. The terminal treated as a designed surface, not an afterthought.
+`TypeScript` · `PTY` · `IDE architecture`
 
-- hypothesis generation
-- evidence retrieval
-- falsification
-- intervention logic
-- counterfactual reasoning
+### ▷ [IskoLab](https://github.com/Lesz-Xi/Iskolab) · [live](https://iskolab.vercel.app)
+An AI-assisted **exam-prep companion** for students. It turns an exam date, topic list, and a student's own notes into a focused study loop: plan the days, generate a study pack, practice recall, repair weak items before exam day.
+> When explanation becomes abundant, direction becomes the scarce thing.
 
-Core idea:
-
-> If the language model disappeared, the causal core should still compute.
-
-Related reading:
-
-- [MASA white paper](https://wuweism.com/masa-white-paper.html)
+`HTML` · `PWA` · `study loop`
 
 ---
 
@@ -70,7 +67,7 @@ These are not decorative influences. They are load-bearing constraints.
 
 Photography is how I train perception.
 
-The same discipline that produces a decisive frame also produces a decisive interface:
+The same discipline that produces a decisive frame produces a decisive interface:
 
 - remove noise
 - preserve structure
@@ -98,7 +95,7 @@ The same discipline that produces a decisive frame also produces a decisive inte
 
 *为学日益，为道日损*
 
-*In pursuit of knowledge, every day something is added.*  
+*In pursuit of knowledge, every day something is added.*
 *In pursuit of the Way, every day something is dropped.*
 
 — *Tao Te Ching*, Ch. 48
