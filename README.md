@@ -7,7 +7,6 @@ Philippines
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
 [![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex/)
-
 ![CLI](https://img.shields.io/badge/CLI-303030?style=flat&logo=gnubash&logoColor=white)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0055FF?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
