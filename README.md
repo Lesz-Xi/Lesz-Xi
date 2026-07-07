@@ -46,7 +46,7 @@ A Claude Code plugin that injects **Twin-Sparrow companion capsules per turn**, 
 
 `TypeScript` · `Claude Code plugin` · `verification gate`
 
-### [Aurelian][Status](https://img.shields.io/badge/status-in_development-C9A227?style=flat)
+### Aurelian &nbsp;![Status](https://img.shields.io/badge/status-in_development-C9A227?style=flat)
 
 
 A premium, macOS-inspired, **terminal-native development environment** — real PTY sessions, workspace persistence, theming, and IDE-grade architecture. The terminal treated as a designed surface, not an afterthought. **Currently in active development.**
