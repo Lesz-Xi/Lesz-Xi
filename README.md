@@ -39,7 +39,7 @@ A coding **companion that remembers.** An Obsidian-native memory vault, dated-jo
 
 `TypeScript` · `monorepo` · `agent runtime`
 
-### [twin-sparrow-claude-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
+### [twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
 
 
 A Claude Code and Codex plugin that injects **Twin-Sparrow companion capsules per turn**, gated by a verification contract that blocks closure until proof obligations pass. Reasoning has to earn its conclusion.
