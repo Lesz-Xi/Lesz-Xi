@@ -79,8 +79,8 @@ The same discipline that produces a decisive frame produces a decisive interface
 
 - remove noise
 - preserve structure
-- make signal legible
-- commit to the shot
+- trust the eye before the theory
+- keep only what survives doubt
 
 See the frames → [lesz25.com/photography](https://lesz25.com/photography)
 
