@@ -83,6 +83,8 @@ The same discipline that produces a decisive frame produces a decisive interface
 - make signal legible
 - commit to the shot
 
+See the frames → [lesz25.com/photography](https://lesz25.com/photography)
+
 ---
 
 ## GitHub Activity
