@@ -9,7 +9,9 @@ Philippines · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a
 [![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex/)
 ![CLI](https://img.shields.io/badge/CLI-303030?style=flat&logo=gnubash&logoColor=white)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-0055FF?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)](https://www.swift.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
