@@ -68,7 +68,7 @@ Not decorative influences — load-bearing constraints.
 
 Photography is how I train perception. The same discipline that produces a decisive frame produces a decisive interface: remove noise, preserve structure, trust the eye before the theory, keep only what survives doubt.
 
-[lesz25.com/photography](https://lesz25.com/photography)
+[https://lesz25.com/#photography](https://lesz25.com/#photography)
 
 ---
 
