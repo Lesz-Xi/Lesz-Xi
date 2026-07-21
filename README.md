@@ -33,11 +33,11 @@ Across everything I ship, one constraint holds: **if the model disappeared, the 
 
 ## Projects
 
-### [twin-sparrow](https://github.com/Lesz-Xi/twin-sparrow)
+### Twin-Sparrow
 
 A coding companion that **remembers**. An Obsidian-native memory vault, dated-journal continuity, and composable skills — carried across terminal, web, and iOS. A session isn't a chat that ends; it's a process that leaves an on-disk trail the next session reads before it acts.
 
-`TypeScript` · `monorepo` · `agent runtime`
+`TypeScript` · `monorepo` · `agent runtime` · `in development`
 
 ### [twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
 
