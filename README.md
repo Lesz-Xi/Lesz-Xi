@@ -77,8 +77,8 @@ Photography is how I train perception. The same discipline that produces a decis
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lesz-Xi&bg_color=00000000&color=8A8578&line=C8965A&point=D9A96A&area=false&hide_border=true&hide_title=true&grid=false"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lesz-Xi&bg_color=00000000&color=6E6A61&line=C8965A&point=8B6340&area=false&hide_border=true&hide_title=true&grid=false" width="100%" alt="GitHub contribution graph — daily contributions over the last 31 days"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=Lesz-Xi&bg_color=00000000&color=8A8578&line=C8965A&point=D9A96A&area=false&hide_border=true&hide_title=true&grid=false"/>
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Lesz-Xi&bg_color=00000000&color=6E6A61&line=C8965A&point=8B6340&area=false&hide_border=true&hide_title=true&grid=false" width="100%" alt="GitHub contribution graph — daily contributions over the last 31 days"/>
 </picture>
 
 ---
