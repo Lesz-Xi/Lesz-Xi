@@ -41,6 +41,12 @@ A coding companion that **remembers**. An Obsidian-native memory vault, dated-jo
 
 `TypeScript` · `monorepo` · `agent runtime` · `in development`
 
+### [Wuweism · Crucible](https://www.wuweism.com/)
+
+An instrument-grade **causal research platform** automating Pearl’s causal ladder — observation, mechanism mapping, do-calculus interventions, counterfactual simulation, and falsification gates. Built to turn source-bound evidence into inspectable, auditable scientific discoveries without hidden steps.
+
+`Next.js` · `TypeScript` · `Causal AI / SCM` · [`wuweism.com`](https://www.wuweism.com/) · [`Lesz-Xi/crucible`](https://github.com/Lesz-Xi/crucible)
+
 ### [twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
 
 A Claude Code and Codex plugin that injects companion capsules per turn, gated by a verification contract that blocks closure until proof obligations pass. **Reasoning has to earn its conclusion.**
