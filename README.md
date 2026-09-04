@@ -53,11 +53,11 @@ A Claude Code and Codex plugin that injects companion capsules per turn, gated b
 
 `TypeScript` · `Claude Code plugin` · `verification gate`
 
-### Aurelian
+### 2041
 
-A macOS-inspired, **terminal-native development environment** — real PTY sessions, workspace persistence, theming, IDE-grade architecture. The terminal treated as a designed surface, not an afterthought.
+A macOS **terminal-native development environment** — real PTY sessions, workspace Files, sidecar preview, theming. The terminal treated as a designed surface, not an afterthought.
 
-`TypeScript` · `PTY` · `in development`
+`Swift` · `Objective-C` · `PTY` · `in development`
 
 ---
 
