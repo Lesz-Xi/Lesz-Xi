@@ -2,7 +2,7 @@
 
 # Rhine
 
-**Developer · Researcher · Photographer**
+**Designer · Researcher · Photographer**
 Philippines · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
 
 <table align="center"><tr>
