@@ -9,7 +9,7 @@ Philippines · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a
 <td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a></td>
 <td><a href="https://www.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"></a></td>
 <td><a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white"></a></td>
-<td><a href="https://github.com/Lesz-Xi/twin-sparrow"><img alt="" src="assets/twin-sparrow-icon.jpg" width="24" height="24"> Twin-Sparrow</a></td>
+<td><a href="https://github.com/Lesz-Xi/twin-sparrow"><img alt="Twin-Sparrow" src="assets/twin-sparrow-icon.jpg" width="32" height="32"></a></td>
 </tr></table>
 
 </div>
