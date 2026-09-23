@@ -6,13 +6,10 @@
 Philippines · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
 
 <table align="center"><tr>
-<td><a href="https://www.anthropic.com/claude-code"><img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"></a></td>
-<td><a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white"></a></td>
-<td><img alt="CLI" src="https://img.shields.io/badge/CLI-303030?style=flat&logo=gnubash&logoColor=white"></td>
-<td><a href="https://www.apple.com/macos/"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"></a></td>
-<td><a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a></td>
-<td><a href="https://www.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"></a></td>
 <td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a></td>
+<td><a href="https://www.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"></a></td>
+<td><a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white"></a></td>
+<td><a href="https://github.com/Lesz-Xi/twin-sparrow"><img alt="Twin-Sparrow" src="assets/twin-sparrow-icon.jpg" width="24" height="24" title="Twin-Sparrow"></a></td>
 </tr></table>
 
 </div>
