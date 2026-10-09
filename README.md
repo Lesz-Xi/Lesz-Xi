@@ -1,79 +1,52 @@
-<div align="center">
+# Rhine Tague
 
-# Rhine
+**Designer · Photographer · Researcher** · Philippines
 
-**Designer · Researcher · Photographer**
-Philippines · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
+[Portfolio](https://lesz25.com/) · [LinkedIn](https://www.linkedin.com/in/rhine-lesther-tague-4b604a246/)
 
-<table align="center"><tr>
-<td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a></td>
-<td><a href="https://www.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"></a></td>
-<td><a href="https://openai.com/codex/"><img alt="Codex" src="https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white"></a></td>
-<td><a href="https://github.com/Lesz-Xi/twin-sparrow"><img alt="Twin-Sparrow" src="assets/twin-sparrow-icon.jpg" width="32" height="32"></a></td>
-</tr></table>
+> I learn through making.
 
-</div>
+I build software, explore how systems reason, and make photographs. Making gives me a way to bring an idea into the open—to examine it, find where it fails, and revise it.
 
-> I build systems at the boundary of code, scientific inquiry, and epistemic rigor —
-> tools that make reasoning **inspectable** instead of theatrical.
+## Approach
 
-Across everything I ship, one constraint holds: **if the model disappeared, the core should still compute.**
+Design is the foundation of my work. It gives imagination a form I can build, question, and refine. Photography and nature shape how I use framing, space, and restraint; I bring that same care to software.
 
----
+I’m working toward intelligent tools that can explain, remember, and reason about causes. Their answers should show where they came from, what they depend on, and what remains uncertain. Human judgment belongs in that process, not outside it.
 
-## Work
+## Selected work
 
-- causal AI systems and auditable reasoning
-- long-lived agents with persistent, inspectable memory
-- research orchestration, verification, and falsification loops
-- high-fidelity, terminal-native product interfaces
+Tools for reasoning, research, and careful software work—in the same order as my portfolio.
 
----
+| Project | Focus |
+| --- | --- |
+| [Groundwork](https://groundwork-six-ruddy.vercel.app/#top) | A source-linked research field guide with plain-language explanations, methodological distinctions, and practical templates. |
+| [Odysxi](https://www.odysxi.com/) | An exploration of interface motion and landing-page templates. |
+| **Twin-Sparrow** · *in development* | A companion-agent runtime for sustained work, memory, and explanation. |
+| **2041** · *in development* | A terminal workspace for companion-assisted software development. |
+| [Relics](https://relics.quest/#top) | A developing documentation and research reference for Twin-Sparrow and 2041 (Aurelian). A manuscript-based podcast is planned. |
+| [Wu-Weism / MASA](https://www.wuweism.com/) | Tools for examining hypotheses, interventions, and counterfactuals. |
+| [Seismic Observation / TSRA](https://tectonic-strain-ratchet-analyzer.vercel.app/) | A seismic observation interface that keeps events and reports distinct. |
+| [ThesisLens](https://thesislens.space/) | A workspace for academic drafts, revision, and records of the writing process. |
 
-## Projects
-
-### Twin-Sparrow
-
-A coding companion that **remembers**. An Obsidian-native memory vault, dated-journal continuity, and composable skills — carried across terminal, web, and iOS. A session isn't a chat that ends; it's a process that leaves an on-disk trail the next session reads before it acts.
-
-`TypeScript` · `monorepo` · `agent runtime` · `in development`
-
-### [Wuweism · Crucible](https://www.wuweism.com/)
-
-An instrument-grade **causal research platform** automating Pearl’s causal ladder — observation, mechanism mapping, do-calculus interventions, counterfactual simulation, and falsification gates. Built to turn source-bound evidence into inspectable, auditable scientific discoveries without hidden steps.
-
-`Next.js` · `TypeScript` · `Causal AI / SCM` · [`wuweism.com`](https://www.wuweism.com/) · [`Lesz-Xi/crucible`](https://github.com/Lesz-Xi/crucible)
-
-### [twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
-
-A Claude Code and Codex plugin that injects companion capsules per turn, gated by a verification contract that blocks closure until proof obligations pass. **Reasoning has to earn its conclusion.**
-
-`TypeScript` · `Claude Code plugin` · `verification gate`
-
-### 2041
-
-A macOS **terminal-native development environment** — real PTY sessions, workspace Files, sidecar preview, theming. The terminal treated as a designed surface, not an afterthought.
-
-`Swift` · `Objective-C` · `PTY` · `in development`
-
----
+Source & companion tooling: [Twin-Sparrow](https://github.com/Lesz-Xi/twin-sparrow) · [Crucible](https://github.com/Lesz-Xi/crucible) · [Claude Code / Codex adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter)
 
 ## Research
 
-Pearl's do-calculus. Popper's falsifiability. Deutsch's criterion that good explanations are hard to vary. Maltz's cybernetic self-image.
+I put ideas into writing so they can be examined, criticized, and revised. My interests include causal reasoning, memory, and the role of feedback in intelligent systems.
 
-Not decorative influences — load-bearing constraints.
+- [Higher-Order Epistemic Ghost States](https://zenodo.org/records/22260729) — a proposal for constraining unsafe reasoning before an agent uses a tool.
+- [Continuous Valence-Corrected Intelligence](https://zenodo.org/records/20579513) — a model exploring how ongoing affective feedback could guide intelligence.
+- [MASA — Methods of Automated Scientific Analysis](https://www.wuweism.com/masa-white-paper.html) — a method combining causal reasoning, memory, and critique.
+- [Beyond Blame: School Violence & Containment](https://osf.io/preprints/socarxiv/hcdxq_v1) — an examination of school violence in the Philippines beyond single-cause blame.
 
-- [MASA — White Paper](https://www.wuweism.com/masa-white-paper.html) — a trust-first architecture for causal, auditable scientific agents
-- [Continuous Valence-Corrected Intelligence](https://zenodo.org/records/20579513) — preprint, Zenodo
+An architectural proposal, a working implementation, and an evaluated result are different things. I want those distinctions—and the evidence behind them—to stay visible.
 
----
+## Photography & notes
 
-## Photography
+Photography is another way I learn to see. Light, nature, and the space around a subject shape what I notice—and what I choose to leave out. My notes follow the same practice: building, reading, and learning to see.
 
-Photography is how I train perception. The same discipline that produces a decisive frame produces a decisive interface: remove noise, preserve structure, trust the eye before the theory, keep only what survives doubt.
-
-[lesz25.com/#photography](https://lesz25.com/#photography)
+[View the photographs](https://lesz25.com/#photography) · [Read the notes](https://lesz25.com/#notes)
 
 ---
 
