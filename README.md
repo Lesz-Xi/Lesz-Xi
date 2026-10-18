@@ -1,4 +1,4 @@
-# Rhine Tague
+# Rhine
 
 **Designer · Photographer · Researcher** · Philippines
 
